@@ -43,5 +43,7 @@
   <catalogs>Catalog.Справочник</catalogs>
   <documents>Document.Документ</documents>
   <reports>Report.Отчет</reports>
+  <reports>Report.Отчет1</reports>
+  <reports>Report.Отчет2</reports>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>

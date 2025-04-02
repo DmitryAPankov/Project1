@@ -44,4 +44,5 @@
   <documents>Document.Документ</documents>
   <reports>Report.Отчет</reports>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
+  <dataProcessors>DataProcessor.Обработка1</dataProcessors>
 </mdclass:Configuration>

@@ -12,7 +12,7 @@
     <key>ru</key>
     <value>Контрагенты</value>
   </synonym>
-  <comment>Коммент ДЕВ</comment>
+  <comment>Коммент Мастер</comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Контрагенты.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.Контрагенты.StandardAttribute.Description</inputByString>
